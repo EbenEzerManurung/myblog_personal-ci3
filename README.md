@@ -32,5 +32,5 @@ PHP version <=7.4 or newer is recommended.
 ************
 Installation
 
-git clone https://github.com/EbenEzerManurung/webschool-ci3.git
+git clone https://github.com/EbenEzerManurung/myblog_personal-ci3.git
 ************
